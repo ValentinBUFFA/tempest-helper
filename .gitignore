@@ -1,0 +1,4 @@
+*.trace
+*.bin
+test_records/
+__pycache__/
